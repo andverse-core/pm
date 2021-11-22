@@ -22,7 +22,7 @@ Anyone is welcome to add an item to the agenda as long as it follows these guide
 
 ### Who Can Attend
 
-Protocol developers, client developers, and core Andverse researchers are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to the Andverse community on [Discord](https://discord.com/invite/6GrtYCvY).
+Protocol developers, client developers, and core Andverse researchers are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to the Andverse community on [Discord](https://discord.gg/NJEtrQKeW5).
 
 ### Who Manages the Meetings
 
