@@ -8,6 +8,10 @@ This repository is used for project management for various initiatives affecting
 
 The Andverse Meeting is a regularly-scheduled project management meeting intended to bring together various Andverse teams who play major roles in determining the direction of the metaverse.
 
+### Projects
+
+The [projects](https://github.com/andverse-core/pm/projects) is used for planning and tracking work about andverse.
+
 ### Agendas
 
 The agendas for the calls are tracked in the Issues tab of this repository, under the "agenda" label ([link](https://github.com/andverse-core/pm/labels/agenda)). To add an item to an agenda, please [open an issue in this repository](https://github.com/andverse-core/pm/issues/new) which mentions the topic you want to discuss and links any relevant materials (EIPs, prototypes, etc.). Then, leave a comment in the agenda where you would like this to be discussed. You can see an example [here](https://github.com/ethereum/pm/issues/289#issuecomment-809501046).
